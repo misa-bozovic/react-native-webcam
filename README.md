@@ -6,7 +6,11 @@ React Native WebCam Project.
 Runtime error:
 error Invalid regular expression: 
 
+
 Path: 
+
+https://stackoverflow.com/questions/55441230/unable-to-load-script-make-sure-you-are-either-running-a-metro-server-or-that-yo
+
 \node_modules\metro-config\src\defaults\blacklist.js
 
 var sharedBlacklist = [
