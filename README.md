@@ -9,7 +9,7 @@ error Invalid regular expression:
 
 Path: 
 
-https://stackoverflow.com/questions/55441230/unable-to-load-script-make-sure-you-are-either-running-a-metro-server-or-that-yo
+https://dev.to/hmadhsan/unable-to-load-script-react-native-4gba
 
 \node_modules\metro-config\src\defaults\blacklist.js
 
