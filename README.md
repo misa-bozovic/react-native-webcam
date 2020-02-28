@@ -1,6 +1,6 @@
 # react-native-webcam
 
-React Native WebCam Project.
+React Native WebCam Project1.
 
 
 Runtime error:
